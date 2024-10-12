@@ -5,5 +5,5 @@
 🚀 Apaixonado por tecnologia e novos desafios.
 
 ## Projetos em Destaque
-- 🧮 **Calculadora Básica em Python** - [Veja o Repositório](link para o repositório)
-- ⏱️ **Cronômetro Simples em Python** - [Veja o Repositório](link para o repositório)
+- ⏱️ **Cronômetro Simples em Python** - [Veja o Repositório](https://github.com/oTalDoWaaase/projetos-faculdade)
+- 🧮 **Calculadora Básica em Python** - [Veja o Repositório](https://github.com/oTalDoWaaase/projetos-faculdade)
