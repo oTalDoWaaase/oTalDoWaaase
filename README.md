@@ -8,7 +8,7 @@ Repositório com projetos de introdução ao Python feitos no primeiro semestre 
 - Um cronômetro em Python usando Tkinter.
 - Você coloca o tempo e ele faz a contagem regressiva até zero. Bem útil pra estudar ou fazer um desafio.
 - [Veja o Projeto](https://github.com/oTalDoWaaase/projetos-faculdade/tree/main/cronoometro_python)
-- ![Cronômetro](link_para_a_imagem)
+- ![Cronômetro](DALL·E 2024-10-12 16.45.31 - A clean and modern graphic representation of a simple Python stopwatch or chronometer. The design features a digital clock with a minimalistic and sle.webp)
 
 
 
