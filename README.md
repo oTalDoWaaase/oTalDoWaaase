@@ -1,9 +1,15 @@
-# Olá! Eu sou o oTalDoWaaase 👋
+# Projetos da Faculdade
 
-🔭 Atualmente estou aprendendo Python e desenvolvimento de jogos.  
-🎓 Estudante de Ciências da Computação no primeiro semestre.  
-🚀 Apaixonado por tecnologia e novos desafios.
+Repositório com projetos de introdução ao Python feitos no primeiro semestre da faculdade. Só coisas básicas, mas já dá pra se divertir!
 
-## Projetos em Destaque
-- ⏱️ **Cronômetro Simples em Python** - [Veja o Repositório](https://github.com/oTalDoWaaase/projetos-faculdade)
-- 🧮 **Calculadora Básica em Python** - [Veja o Repositório](https://github.com/oTalDoWaaase/projetos-faculdade)
+## Projetos:
+
+### 1. Cronômetro Simples
+- Um cronômetro em Python usando Tkinter.
+- Você coloca o tempo e ele faz a contagem regressiva até zero. Bem útil pra estudar ou fazer um desafio.
+- [Veja o Projeto](https://github.com/oTalDoWaaase/projetos-faculdade/tree/main/cronometro_python)
+
+
+### 2. Calculadora Básica
+- Calculadora que faz as quatro operações: soma, subtração, multiplicação e divisão.
+- [Veja o Projeto](https://github.com/oTalDoWaaase/projetos-faculdade/tree/main/introducao_python)
