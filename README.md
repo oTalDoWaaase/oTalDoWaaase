@@ -45,3 +45,8 @@ Este repositório contém os projetos desenvolvidos durante a faculdade de Ciên
 1. Clone o repositório:
    ```bash
    git clone https://github.com/oTalDoWaaase/meus-projetos.git
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/luiseduardo-menezes)
+[![YouTube](https://img.shields.io/badge/YouTube-Canal-red?style=flat-square&logo=youtube)](https://www.youtube.com/@LuisEduardoMenezes)
+
+
