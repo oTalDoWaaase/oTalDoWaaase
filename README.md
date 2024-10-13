@@ -1,6 +1,9 @@
 # 🎓 **Meus Projetos da Faculdade**
 
 Este repositório contém os projetos desenvolvidos durante a faculdade de Ciência da Computação. Eles são parte dos meus estudos e experimentos com Python. 🚀
+![GitHub top language](https://img.shields.io/github/languages/top/oTalDoWaaase/meus-projetos)
+![GitHub repo size](https://img.shields.io/github/repo-size/oTalDoWaaase/meus-projetos)
+
 
 ---
 
