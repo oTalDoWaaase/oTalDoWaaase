@@ -1,3 +1,6 @@
+# 🎓 **Meus Projetos da Faculdade**
+
+Este repositório contém os projetos desenvolvidos durante a faculdade de Ciência da Computação. Eles são parte dos meus estudos e experimentos com Python. 🚀
 
 <table>
   <tr>
@@ -9,12 +12,6 @@
     </td>
   </tr>
 </table>
-
-
-
-# 🎓 **Meus Projetos da Faculdade**
-
-Este repositório contém os projetos desenvolvidos durante a faculdade de Ciência da Computação. Eles são parte dos meus estudos e experimentos com Python. 🚀
 
 ---
 
@@ -35,4 +32,3 @@ Este repositório contém os projetos desenvolvidos durante a faculdade de Ciên
 1. Clone o repositório:
    ```bash
    git clone https://github.com/oTalDoWaaase/meus-projetos.git
-
