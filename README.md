@@ -3,6 +3,12 @@
 Este perfil contém os projetos desenvolvidos durante a faculdade de Ciência da Computação. Eles são parte dos meus estudos e experimentos com Python. 🚀
 ![GitHub top language](https://img.shields.io/github/languages/top/oTalDoWaaase/meus-projetos)
 ![GitHub repo size](https://img.shields.io/github/repo-size/oTalDoWaaase/meus-projetos)
+<div align="center">
+  <a href="https://otaldowaaase.github.io/meus-projetos/" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Meus%20Projetos%20no%20GitHub%20Pages-blue?style=for-the-badge" alt="Ver Projetos no GitHub Pages">
+  </a>
+</div>
+
 
 
 ---
