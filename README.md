@@ -6,7 +6,7 @@ Este repositório contém os projetos desenvolvidos durante a faculdade de Ciên
 
 <div align="center">
   <a href="https://github.com/oTalDoWaaase/meus-projetos">
-    <img src="https://img.shields.io/badge/Visitar%20Pasta-Meus%20Projetos-blue?style=for-the-badge" alt="Botão para Meus Projetos"/>
+    <img src="https://img.shields.io/badge/Meus%20Projetos-blue?style=for-the-badge" alt="Botão para Meus Projetos"/>
   </a>
 </div>
 
